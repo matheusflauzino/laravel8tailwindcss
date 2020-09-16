@@ -3,3 +3,5 @@
 Testing the integration of Laravel 8 with TailWindCSS
 
 References: https://tailwindcss.com/
+
+![Image of Yaktocat](./laravelwindcss.png)
